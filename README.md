@@ -17,7 +17,7 @@ I love solving real-world problems with code, optimizing for performance and sec
 
 ---
 
-## 🧰 Tech I Use
+## 🧰 Tech I Use (Not limited to)
 
 **Languages:**  
 `TypeScript` `Solidity` `Python` `JavaScript` `Shell`
