@@ -1,28 +1,50 @@
-# Hi, It's amazing since you're here 👋
+# 👋 Hi, I'm Mocarram Hossain
 
-### Javascript, React, Firebase, MERN  -- Projects
+🚀 Full-stack Developer | 🛠 Smart Contract Engineer | ⚡ Web3 & AI Enthusiast  
+🌍 Building the next generation of decentralized & intelligent tools
 
-- **[Projects on ProjectsSpace](https://github.com/ProjectsSpace)**
+---
 
-### Python, Django, Flask -- Projects
+## 👨‍💻 About Me
 
-- Yet to publish
+I'm a software engineer who enjoys building across the stack—from backend APIs to frontend UIs—and writing smart contracts that power Web3 systems. My work spans:
 
-### Data Science and Machine learning -- Projects
+- 🌐 **Full-stack Development**: TypeScript | Next.js | Express | MongoDB | PostgreSQL | Python | FastAPI | NodeJS
+- ⚙️ **Smart Contract Engineering**: Solidity | Foundry | Hardhat | Viem/Ethers | Ethereum & L2s  
+- 🧠 **AI-Enhanced Tools**: Building interfaces & automations that make dev workflows smarter  
 
-- Yet to publish
+I love solving real-world problems with code, optimizing for performance and security, and constantly learning and exploring.
 
-<!--
-**Mocarram/Mocarram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧰 Tech I Use
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages:**  
+`TypeScript` `Solidity` `Python` `JavaScript` `Shell`
+
+**Frameworks & Tools:**  
+`Next.js` `Foundry` `Hardhat` `Viem` `Prisma` `Redis` `MongoDB` `BullMQ` `FastAPI`
+
+**Dev Practices:**  
+`Clean Code` `Gas Optimization` `Indexing Pipelines` `E2E Testing` `OpenAPI` `Monorepos`
+
+---
+
+## 🧠 Fun Facts
+
+- 🌱 Currently learning more about **OpenAPI**, **AI agents**, and **low-level EVM quirks**  
+- 🏕️ Love hiking and minimalist productivity setups  
+- 🎮 Love playing video games, racing simulators and exploring immersive game worlds 
+- 🎯 I enjoy building tools that empower both devs and non-devs to ship faster
+
+---
+
+## 📫 Let's Connect
+
+- 📝 [LinkedIn](https://linkedin.com/in/mocarram)  
+- 🧠 [X](https://x.com/mocarram_swe)
+- 💬 DM me if you’re into Web3 tooling, contract indexing, smart UX for dApps or building AI sysmtems!
+
+---
+
+⭐️ *Thanks for visiting my GitHub! Feel free to explore my repos or drop a ⭐️ if something helps you!*
