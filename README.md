@@ -23,7 +23,7 @@ I love solving real-world problems with code, optimizing for performance and sec
 `TypeScript` `Solidity` `Python` `JavaScript` `Shell`
 
 **Frameworks & Tools:**  
-`Next.js` `Foundry` `Hardhat` `Viem` `Prisma` `Redis` `MongoDB` `BullMQ` `FastAPI`
+`Next.js` `Foundry` `Hardhat` `Viem` `Prisma` `Redis` `MongoDB` `BullMQ` `FastAPI` `PostgreSQL`
 
 **Dev Practices:**  
 `Clean Code` `Gas Optimization` `Indexing Pipelines` `E2E Testing` `OpenAPI` `Monorepos`
@@ -36,6 +36,21 @@ I love solving real-world problems with code, optimizing for performance and sec
 - 🏕️ Love hiking and minimalist productivity setups  
 - 🎮 Love playing video games, racing simulators and exploring immersive game worlds 
 - 🎯 I enjoy building tools that empower both devs and non-devs to ship faster
+
+---
+
+## 🤝 Open to Collaborate On
+
+I'm always excited to team up and build! Here are some areas I'm especially interested in:
+
+- 🌐 **Web3 Solutions** – contracts, dApps, protocols, or infra
+- 💡 **Fun or Meaningful Ideas** – from experiments to moonshots
+- 🛠 **DevX Tools** – anything that improves the experience for developers
+- 📊 **Data Indexing & Automation** – smart contract event pipelines, metrics, and APIs
+- 🔮 **AI-Powered Tools** – LLM-backed apps for productivity or Web3
+- 🧑‍🚀 **Hackathons** – open to teaming up for online or in-person hackathons
+
+If you have something cool in mind, feel free to reach out. Let’s build!
 
 ---
 
