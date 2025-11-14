@@ -58,8 +58,4 @@ If you have something cool in mind, feel free to reach out. Let’s build!
 
 - 📝 [LinkedIn](https://linkedin.com/in/mocarram)  
 - 🧠 [X](https://x.com/mocarram_swe)
-- 💬 DM me if you’re into Web3 tooling, contract indexing, smart UX for dApps or building AI sysmtems!
-
----
-
-⭐️ *Thanks for visiting my GitHub! Feel free to explore my repos or drop a ⭐️ if something helps you!*
+- 💬 DM me if you’re into Web3 tooling, contract indexing, smart UX for dApps or building AI systems!
